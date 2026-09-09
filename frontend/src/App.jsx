@@ -16,7 +16,7 @@ import bmiImage from "./assets/bmi.png";
 import pregnancyImage from "./assets/pregnancy.png";
 
 
-const API_URL = "http://127.0.0.1:8000";
+const API_URL = "https://healthcare-ai-new-twae.onrender.com";
 // ==================================================
 // NAVBAR
 // ==================================================
