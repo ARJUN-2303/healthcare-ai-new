@@ -1,0 +1,48 @@
+# =========================
+# Backend
+# =========================
+
+backend/.env
+backend/venv
+backend/venv/
+backend/__pycache__/
+backend/*.pyc
+
+# Database
+backend/*.db
+*.db
+
+# Generated reports
+backend/reports/
+*.pdf
+
+# =========================
+# Frontend
+# =========================
+
+frontend/node_modules/
+frontend/dist/
+
+# Temporary files
+*.tmp
+
+# =========================
+# Python
+# =========================
+
+__pycache__/
+*.pyc
+
+# =========================
+# Environment
+# =========================
+
+.env
+
+# =========================
+# VS Code / OS
+# =========================
+
+.vscode/
+.DS_Store
+Thumbs.db
